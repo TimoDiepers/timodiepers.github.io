@@ -10,8 +10,8 @@ first_name: Timo
 last_name: Diepers
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,7 @@ role: Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of Technical Thermodynamics @ RWTH Aachen University
+  - name: LTT @ RWTH Aachen University
     url: https://www.ltt.rwth-aachen.de/
 
 # Social network links
@@ -41,9 +41,9 @@ profiles:
     url: https://orcid.org/0009-0002-8566-8618
 
 interests:
-  - Dynamic and Prospective Life Cycle Assessment
+  - Life Cycle Assessment
   - Mathematical Optimization
-  - Energy System Design
+  - Energy Transition
 
 education:
   - area: M.Sc. Energy Engineering
