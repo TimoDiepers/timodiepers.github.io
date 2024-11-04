@@ -24,7 +24,7 @@ role: Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: LTT @ RWTH Aachen University
+  - name: RWTH Aachen University
     url: https://www.ltt.rwth-aachen.de/
 
 # Social network links
