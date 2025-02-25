@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: bg-hue.svg
           filters:
-            brightness: 0.2
+            brightness: 0.4
           size: cover
           position: center
           parallax: true
